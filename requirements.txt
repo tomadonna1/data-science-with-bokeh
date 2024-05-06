@@ -1,0 +1,12 @@
+bokeh
+holoviews
+hvplot
+imbalanced-learn
+matplotlib
+numpy
+pandas
+panel
+scikit-learn
+scipy
+seaborn
+statsmodels
