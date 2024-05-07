@@ -10,3 +10,5 @@ Here are some of the few steps after cloning the repo.
     - env/Scripts/activate.bat
 2. Install the requirements file
     - pip install -r requirements.txt
+3. Run the ipynb in jupyter notebook
+   - python -m notebook
